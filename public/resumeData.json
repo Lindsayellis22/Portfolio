@@ -3,12 +3,12 @@
     "name1": "Lindsay",
     "name": "Lindsay Ellis",
     "occupation": "Junior Developer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "description": "A recent General Assembly grad eager to break out into the industry, I'm creative and love to learn",
+    "image": "profilepic.jpeg",
+    "bio": "proficient in React, CSS, HTML, Git, Express, and Mongodb.",
+    "contactmessage": "I'd love to work with you!",
+    "email": "lindsayellis22@gmail.com",
+    "phone": "561-891-6087",
     "address": {
       "street": "650 Forest Hill Road",
       "city1": "Gordonsville",
@@ -20,28 +20,13 @@
     "resumedownload": "https://docs.google.com/document/d/13lEVITRITZs_TBW57ua6YjaV92aiRul0d0whQ0FV3qE/edit?usp=sharing",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/lindsay-lauren-ellis/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/lindsayellis22",
         "className": "fa fa-github"
       }
     ]
@@ -82,8 +67,8 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "level": "40%"
       },
       {
         "name": "ReactJs",
@@ -91,19 +76,19 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "70%"
       },
       {
-        "name": "VueJs",
+        "name": "Express",
         "level": "50%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
@@ -116,28 +101,22 @@
         "url": "chickensays"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Plant Haven",
+        "category": "A web-based app that teaches people about house plants. Group project built with MERN stack",
+        "image": "planthaven.png",
+        "url": "https://plant-haven.netlify.app/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Cultured Confectioner",
+        "category": "A React app that displays dessert recipes from around the globe",
         "image": "dessert.png",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "url": "https://culturedconfectioner.netlify.app/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "L337 Pets",
+        "category": "A Neopets based app built with MERN stack",
+        "image": "L337Pets.png",
+        "url": "https://l337pets.netlify.app/"
       }
     ]
   },
