@@ -431,7 +431,7 @@ dd { margin: 0 0 0 20px; }
 	border-radius: 3px;
 }
 .pagination .page-numbers:hover {
-   background: #838A91;
+   background: gray;
    color: #fff;
 }
 .pagination .current,

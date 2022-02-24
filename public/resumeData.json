@@ -1,7 +1,8 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
+    "name1": "Lindsay",
+    "name": "Lindsay Ellis",
+    "occupation": "Junior Developer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
@@ -9,13 +10,14 @@
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "650 Forest Hill Road",
+      "city1": "Gordonsville",
+      "city": "Charlottesville",
+      "state": "VA",
+      "zip": "22942"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/13lEVITRITZs_TBW57ua6YjaV92aiRul0d0whQ0FV3qE/edit?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -108,10 +110,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Chicken Says",
+        "category": "A web-based memory game coded with HTML, CSS, and JS",
+        "image": "chickensays.png",
+        "url": "chickensays"
       },
       {
         "title": "Fury Fighting Gear",
@@ -122,7 +124,7 @@
       {
         "title": "Original Thai Food",
         "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
+        "image": "dessert.png",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {

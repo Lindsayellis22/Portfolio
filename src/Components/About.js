@@ -4,10 +4,12 @@ class About extends Component {
   render() {
 
     if(this.props.data){
+      var name1 = this.props.data.name1;
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
+      var city1 = this.props.data.address.city1;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
@@ -32,7 +34,7 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
 						   <span>{street}<br />
-						         {city} {state}, {zip}
+						         {city1} {state}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
